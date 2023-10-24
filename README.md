@@ -28,6 +28,7 @@ The 3 sub startegies are as follows: ....
 
 The stocks analysed in this assingment are AMAZON, FACEBOOK and S&P500. They were chosen because since they
 belong to different industries, they would give a hollistic overview of the trading strategy being developed. 
+It was observed that optimising techinical indicator approach yielded better results as it was able to accurately predict 82% future stock prices 
 
 It is essential to note that accurately predicting the market just using algorithm is almost impossible and there is
 always certain leeway with the predictions.
